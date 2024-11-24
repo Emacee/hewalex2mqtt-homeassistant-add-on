@@ -1,6 +1,6 @@
 {
   "name": "Hewalex2MQTT",
-  "version": "0.2",
+  "version": "0.2.1",
   "slug": "hewalex",
   "description": "Hewalex heat pump monitoring",
   "url": "https://github.com/Emacee/hewalex2mqtt-homeassistant-add-on/",
